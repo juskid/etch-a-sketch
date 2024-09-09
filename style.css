@@ -1,0 +1,10 @@
+.hovDiv {
+    width: 20px;
+    height: 20px;
+    color: white;
+    background: dodgerblue;
+}
+
+.row {
+    display: flex;
+}
